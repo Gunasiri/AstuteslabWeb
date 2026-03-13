@@ -1,0 +1,354 @@
+
+@media (max-width: 1400px) {
+    .happy-clients .card-title {
+        font-size: 30px;
+        line-height: 42px;
+        letter-spacing: -0.05rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    .team-card {
+        max-width: 90%;
+    }
+    .bento-3 {
+        height: 400px;
+    }
+    .bento-6 {
+        height: 200px;
+    }
+    .bento-card {
+        padding: 12px;
+    }
+    .square .num {
+        font-size: 42px;
+    }
+    .bg-color {
+        padding: 40px 30px 40px 60px;
+    }
+    .contact-image img {
+        /* height: 500px; */
+    }
+    .qoute {
+        padding: 0 80px;
+    }
+    .info-card {
+        padding: 40px 32px 40px 60px;
+    }
+}
+
+
+@media (max-width: 992px) {
+    .navbar-nav {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .navbar .nav-link {
+        padding-left: 0 !important;
+    }
+    .navbar .btn {
+        margin-left: 0;
+        margin-top: 12px;
+    }
+    .nav-contact {
+        display: block;
+    }
+    .btn-nav-contact {
+        display: none;
+    }
+    
+    /* ============ Bento Grid Media Start ============ */
+    .bento-wrapper {
+        grid-template-columns: 1fr 2fr;
+        grid-auto-rows: minmax(240px, auto);
+    }
+    .bento-1 {
+        order: 1;
+        grid-column: unset;
+        grid-row: unset;
+    }
+    .bento-2 {
+        order: 2;
+        grid-column: unset;
+        grid-row: unset;
+    }
+    .bento-3 {
+        order: 6;
+        height: 240px;
+        grid-column: unset;
+        grid-row: unset;
+        background-position: center;
+    }
+    .bento-4 {
+        order: 4;
+        grid-column: unset;
+        grid-row: unset;
+    }
+    .bento-5 {
+        order: 3;
+        grid-column: unset;
+        grid-row: unset;
+    }
+    .bento-6 {
+        order: 5;
+        height: 240px;
+        grid-column: unset;
+        grid-row: unset;
+    }
+    .happy-clients {
+        max-width: 50%;
+        height: auto;
+    }
+    .org-line {
+        height: 16px;
+    }
+    .ast-card .huge-title {
+        padding-bottom: 32px;
+    }
+    /* ============ Bento Grid Media End ============ */
+
+    .ser-images {
+        margin-bottom: 24px;
+        padding: 0;
+    }
+    .accordion {
+        margin-top: 24px;
+    }
+
+    .abt-img img {
+        height: 300px;
+    }
+    .detail-box {
+        /* grid-template-columns: 1fr 1fr; */
+    }
+    .bg-color {
+        padding: 24px 20px 20px 48px;
+    }
+    .contact-image img {
+        height: 480px;
+    }
+    .qoute {
+        padding: 0 30px;
+    }
+    .help-details img {
+        width: 60px;
+    }
+
+    .contact-form {
+        padding-left: 40px;
+    }
+    .info-card {
+        padding: 24px 24px 24px 40px;
+    }
+    
+    .grid-box .info-card, .grid-box .contact-image {
+        max-height: 480px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .ast-title {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .section-hero {
+        padding-bottom: 30px;
+    }
+    .hero-intro {
+        margin-top: 40px;
+    }
+
+    /* ============ Bento Grid Media Start ============ */
+
+    .section-bento {
+        padding: 40px 0 80px;
+    }
+    .bento-wrapper {
+        grid-template-columns: 3fr 4fr;
+        grid-auto-rows: minmax(240px, auto);
+    }
+    .square .num {
+        font-size: 36px;
+    }
+    .team-card {
+        max-width: 100%;
+    }
+    .happy-clients {
+        max-width: 100%;
+    }
+    .org-line {
+        height: 72px;
+    }
+
+    /* ============ Bento Grid Media End ============ */
+
+    .section-marquee {
+        padding: 12px 0;
+    }
+    .marq-word span img {
+        width: 48px;
+        height: 48px;
+    }
+    .marq-word {
+        font-size: 20px;
+    }
+    .section-services {
+        padding-bottom: 80px;
+    }
+    .service-content {
+        padding-top: 24px;
+    }
+    footer {
+        padding-top: 80px;
+    }
+    footer .ft-logo {
+        text-align: center !important;
+    }
+    footer .col-md-4{
+        text-align: center !important;
+    }
+    footer .hero-intro {
+        padding-bottom: 40px;
+    }
+    .title-intro {
+        margin-top: 40px;
+    }
+    .abt-img img {
+        height: 260px;
+    } 
+    .detail-box {
+        grid-template-columns: 1fr 1fr;
+    }
+    .core-img {
+        padding-top: 30px;
+    }
+    .contact-image img {
+        height: 380px;
+    }
+    .qoute {
+        /* padding: 0; */
+        grid-template-columns: 1fr;
+        gap: 1em;
+    }
+
+    .info-card {
+        padding: 20px 30px 20px 40px;
+        margin-bottom: 60px;
+    } 
+    .contact-form {
+        padding-left: 0;
+    }
+    .section-contact-us {
+        padding-bottom: 60px;
+    }
+
+    .ct-grid {
+        grid-template-columns: 1fr;
+        box-shadow: none;
+        border-radius: 0;
+    }
+    .grid-box .info-card {
+        border-radius: 0;
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    .contact-image img {
+        border-radius: 0;
+    }
+    .grid-box .info-card, .grid-box .contact-image {
+        max-height: unset;
+    }
+    .grid-box .light-title {
+        margin-top: 0;
+    }
+}
+
+
+@media (max-width: 575px) {
+    .bento-wrapper {
+        grid-template-columns: 1fr;
+        grid-auto-rows: minmax(240px, auto);
+    }
+    .square .num {
+        font-size: 48px;
+    }
+    .org-line {
+        height: 48px;
+    }
+    .happy-clients {
+        max-width: 60%;
+    }
+    .bento-3 {
+        background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8)), url(../image/mission.png);
+    }
+    .plat-part {
+        grid-template-columns: 1fr;
+    }
+    .consult {
+        grid-template-columns: 1fr 1fr;
+    }
+    .section-gallery {
+        padding-bottom: 60px;
+    }
+    .caption {
+        padding: 36px 0;
+    }
+    .section-about {
+        padding-bottom: 60px;
+    }
+    .section-core {
+        padding-top: 0;
+        padding-bottom: 32px;
+    }
+    .core-header {
+        padding-bottom: 20px;
+    }
+    /* .bg-color {
+        padding: 32px 0;
+        text-align: center;
+    }
+    .light-title {
+        text-align: center;
+    }
+    .help-details {
+        display: block;
+    }
+    .help-details img {
+        width: 80px;
+        margin-bottom: 12px;
+    } */
+
+    .info-card {
+        background-color: unset;
+        border-radius: unset;
+        box-shadow: none;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+}
+
+
+@media (max-width: 485px) {
+    .contact-image img {
+        height: 275px;
+    }
+}
+
+@media (max-width: 420px) {
+    .happy-clients {
+        max-width: 100%;
+    }
+    .abt-img img {
+        height: 200px;
+        border-radius: 8px;
+    }
+}
+
+@media (max-width: 360px) {
+    
+}
+
+/* @media (min-width: 1100px) and (max-width: 1300px), (min-height: 550px) and (max-height: 680px) { 
+    
+} */

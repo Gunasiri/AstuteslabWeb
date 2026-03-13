@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="ast-loc" transform="translate(-816 -742)">
+    <g id="Icon-Bg" transform="translate(816 742)">
+      <g id="Rectangle_14397" data-name="Rectangle 14397" fill="#fef0ea" stroke="#ffe0d1" stroke-width="1">
+        <rect width="64" height="64" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="63" height="63" rx="11.5" fill="none"/>
+      </g>
+    </g>
+    <g id="map-point-svgrepo-com" transform="translate(836 762)">
+      <path id="Path_38" data-name="Path 38" d="M4,10.143A8.073,8.073,0,0,1,12,2a8.073,8.073,0,0,1,8,8.143c0,4.462-2.553,9.669-6.537,11.531a3.449,3.449,0,0,1-2.926,0C6.553,19.812,4,14.606,4,10.143Z" fill="none" stroke="#f56127" stroke-width="1.5"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="3" cy="3" r="3" transform="translate(9 7)" fill="none" stroke="#f56127" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

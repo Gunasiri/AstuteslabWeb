@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_16542" data-name="Group 16542" transform="translate(-816 -742)">
+    <g id="Icon-Bg" transform="translate(816 742)">
+      <g id="Rectangle_14397" data-name="Rectangle 14397" fill="#fef0ea" stroke="#ffe0d1" stroke-width="1">
+        <rect width="64" height="64" rx="16" stroke="none"/>
+        <rect x="0.5" y="0.5" width="63" height="63" rx="15.5" fill="none"/>
+      </g>
+    </g>
+    <g id="页面-1" transform="translate(836 762)">
+      <g id="Building" transform="translate(-288)">
+        <g id="building_2_line" transform="translate(288)">
+          <path id="MingCute" d="M24,0V24H0V0ZM12.594,23.258l-.012,0-.071.035-.019,0h0l-.015,0-.071-.035a.021.021,0,0,0-.024.005l0,.011-.017.427.005.02.011.012.1.074.015,0h0l.012,0,.1-.074.013-.016h0l0-.017-.017-.427a.021.021,0,0,0-.016-.018Zm.265-.112-.014,0-.185.092-.01.01h0l0,.011.018.429,0,.013h0l.009.007.2.093a.025.025,0,0,0,.028-.008l0-.014-.034-.615a.025.025,0,0,0-.019-.021Zm-.715,0a.023.023,0,0,0-.027.005l-.006.014-.034.615a.023.023,0,0,0,.017.023h.016l.2-.093.009-.008h0l0-.012.018-.429,0-.013h0l-.009-.009Z" fill="none"/>
+          <path id="形状" d="M13.026,2.271a1.5,1.5,0,0,1,1.969,1.291L15,3.694V9.18l3.794.759a1.5,1.5,0,0,1,1.2,1.329L20,11.41V19h1a1,1,0,0,1,.117,1.993L21,21H3a1,1,0,0,1-.117-1.993L3,19H4V6.36a1.5,1.5,0,0,1,.9-1.374l.128-.049ZM13,4.387,6,6.721V19h7Zm2,6.833V19h3V11.82Z" fill="#f56127" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
